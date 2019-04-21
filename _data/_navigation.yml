@@ -1,8 +1,8 @@
 #main links:
 
 main:
-  - title: "About" # ³×ºñ°ÔÀÌ¼Ç ¹Ù¿¡ Ç¥½Ã µÇ´Â ÀÌ¸§
-    url: "/about/" # Å¬¸¯½Ã ÀÌµ¿ÇÒ URL
+  - title: "About" # ë„¤ë¹„ê²Œì´ì…˜ ë°”ì— í‘œì‹œ ë˜ëŠ” ì´ë¦„
+    url: "/about/" # í´ë¦­ì‹œ ì´ë™í•  URL
   - title: "Category"
     url: /categories/
   # - title: "Sample Collections"
