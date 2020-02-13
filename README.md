@@ -1,5 +1,8 @@
 # vitealth.github.io
 
+http://www.vitealth.net/termsofservice
+http://www.vitealth.net/privacypolicy
+
 파일 : UTF-8로 저장.
 
 지킬 local에서 실행-에러체크
