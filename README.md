@@ -1,5 +1,10 @@
 # vitealth.github.io
 
+파일 : UTF-8로 저장.
+
+지킬 local에서 실행-에러체크
+bundle exec jekyll serve
+ 
 수정하는법.
 
 _site는 컴파일 결과로, client에서는 건드리지 않는다.
