@@ -1,7 +1,7 @@
 # Site settings
 title: Respio Sleep Coach
 email: cypark@vitealth.net
-description: 수면센서, 슬립트래커, 수면트래커, 수면벨트, 수면띠, 수면센서, 수면측정센서, 생체신호측정센서, 수면측정, 수면개선, 코골이, 수면무호흡,  꿀잠, 꿀잠 슬립코치, 바이텔스, 꿀잠, RESPIO, 마이모바일, 심박, 호흡, HRV, BCG, 불면증
+description: 수면센서, 슬립트래커, 수면트래커, 수면벨트, 수면띠, 수면센서, 수면측정센서, 생체신호측정센서, 수면측정, 수면개선, 코골이, 수면무호흡,  꿀잠, 꿀잠 슬립코치, 바이텔스, RESPIO, 마이모바일, 심박, 호흡, HRV, BCG, 불면증
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://www.vitealth.net" # the base hostname & protocol for your site
