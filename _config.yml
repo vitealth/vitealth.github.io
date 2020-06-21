@@ -1,22 +1,25 @@
 # Site settings
-title: Respio Sleep Coach
+title: Respio Sleep Coach, 레스피오 수면센서
 email: cypark@vitealth.net
-description: 수면센서, 슬립트래커, 수면트래커, 수면벨트, 수면띠, 수면측정센서, 생체신호측정센서, 수면측정, 수면개선, 코골이, 수면무호흡,  불면증, cbt, cbti, 꿀잠, 슬립코치, 바이텔스, vitealth, RESPIO, 마이모바일, 심박, 호흡, HRV, BCG
+description: Respio 슬립코치는 무자각 형태의 [수면센서]를 이용하여 [수면측정]을 하고, [수면질을 향상] 시킬수 있습니다.
+lang: ko_KR 
+
+#  수면센서, 슬립트래커, 수면트래커, 수면벨트, 수면띠, 수면측정센서, 생체신호측정센서, 수면측정, 수면개선, 코골이, 수면무호흡,  불면증, cbt, cbti, 꿀잠, 슬립코치, 바이텔스, vitealth, RESPIO, 마이모바일, 심박, 호흡, HRV, BCG
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://www.vitealth.net" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: #2973388149
-data-ad-client: #ca-pub-9204963049240271
-google_ad_client: #ca-pub-9204963049240271
+#data-ad-slot: #2973388149
+#data-ad-client: #ca-pub-9204963049240271
+#google_ad_client: #ca-pub-9204963049240271
 
 google_analytics: "G-60M5N56LTM"
-addthis_id: #ra-5644da281510c62f
-disqus_account: #jeky-new-age
+#addthis_id: #ra-5644da281510c62f
+#disqus_account: #jeky-new-age
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
-social:
+#social:
   #- title: twitter
   #  url: https://twitter.com/lantoniotrento
   #- title: facebook
@@ -46,4 +49,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
-  
+  - jekyll-sitemap
