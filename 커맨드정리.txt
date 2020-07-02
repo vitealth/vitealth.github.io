@@ -3,5 +3,8 @@ jekyll serve s
 
 filename 이 _ 로 시작하면 url로 연결되지 않는다.
 
+layout/front.html 에 처음페이지가 들어있다.
+nav.html에 상단 메뉴
+
 
 
