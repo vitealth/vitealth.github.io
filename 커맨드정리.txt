@@ -1,16 +1,14 @@
-local web server
-jekyll serve s
+<web server 시작>
+1. bundler 업데이트
+gem install bundler
+bundle install
 
+2. 로컬서버 시작
+bundle exec jekyll serve
+
+
+<html 작성>
 filename 이 _ 로 시작하면 url로 연결되지 않는다.
 
 layout/front.html 에 처음페이지가 들어있다.
 nav.html에 상단 메뉴
-
-
-gem install bundler
-
-
-bundle exec jekyll serve
-
-bundle install
-
